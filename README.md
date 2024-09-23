@@ -22,12 +22,9 @@ O código contém as seguintes funcionalidades:
 
 O projeto depende de algumas bibliotecas e APIs da própria aplicação Sankhya, como:
 
-- `br.com.sankhya.extensions.actionbutton.AcaoRotinaJava`
-- `br.com.sankhya.jape.EntityFacade`
-- `br.com.sankhya.modelcore.util.AgendamentoRelatorioHelper`
-
-Além disso, ele utiliza a biblioteca `Apache Commons Lang` para o tratamento de exceções.
-
+- SDK Sankhya: https://developer.sankhya.com.br/docs/new-sdk
+- Adicional: https://satyacode-files.s3.amazonaws.com/website/wp-content/uploads/2024/09/23210336/adicional_jars.zip
+  
 ## Como Utilizar
 
 1. Implemente o botão de ação dentro da aplicação Sankhya conforme a documentação oficial.
